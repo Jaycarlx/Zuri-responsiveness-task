@@ -45,7 +45,7 @@ a {
   padding: 10px 45px;
   border-radius: 50px;
 }
-/* Added a basic transition for the button hover */
+/* Added a basic transition for the button hover as instructed */
 .submit:hover {
   background-color: transparent;
   color: #ff52bf;
@@ -309,7 +309,7 @@ a {
   font-size: 0.8rem;
 }
 
-@media only screen and (min-width: 365px) {
+@media only screen and (min-width: 1365px) {
   #rectangles .wrapper .rectangle-item {
     padding: 50px 100px;
     -webkit-box-pack: center;
